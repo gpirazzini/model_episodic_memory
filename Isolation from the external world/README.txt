@@ -6,6 +6,8 @@ The present folder contains two different MATLAB scripts.
 
 'MAIN_isolation_shared' is the main script for test the 'Isolation from the external world' operation mode of the network, and call the script 'ISOLATION_sim'.
 
+Launching 'MAIN_isolation_shared' you can test three different modalities of the network: imagination, dreaming or schizophrenia. The script requires that you have already executed the codes contained in the 'Encoding' and saved the shared synapses. The script 'ISOLATION_sim' simulates the behavior of three network layers (L1, L2 and Theta generator), because now the network is isolated from the WM.
+
 ----------------------------------------------------------------------------------------------------------------------------
 
 *Please note 1: in this folder %comments to the scripts are more sparse; this is because they have already been inserted in the other scripts (scripts in the folders 'Encoding' and 'Retrieval')
