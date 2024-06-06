@@ -15,7 +15,7 @@ More details are contained in the README files within the three folders, and as 
 
 For any doubts you can contact the corresponding author Gabriele Pirazzini at gabriele.pirazzini3@unibo.it
 
-------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------
 
 *Please note: for all details omitted here, please refer to the reference article: https://doi.org/10.3389/fncir.2024.1326609 
 
@@ -24,4 +24,4 @@ For any doubts you can contact the corresponding author Gabriele Pirazzini at ga
 "Pirazzini G and Ursino M (2024) Modeling the contribution of theta-gamma coupling to sequential memory, imagination, and dreaming. Front. Neural Circuits 18:1326609. doi: 10.3389/fncir.2024.1326609"
 
 
-														Gabriele Pirazzini, Cesena (IT), 06/06/2024
+										Gabriele Pirazzini, Cesena (IT), 06/06/2024
