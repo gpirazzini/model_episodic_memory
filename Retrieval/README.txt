@@ -4,7 +4,9 @@ The present folder contains three different MATLAB scripts.
 
 'MAIN_retrieval_ortho' & 'MAIN_retrieval_shared' are the two main scripts for test the 'retrieval' functioning mode of the network (you can use one or the other depending on the type of sequences you want to retrieve), and both call the same script 'RETRIEVAL_sim'.
 
-------------------------------------------------------------------------------------------------------------------------------
+Launching 'MAIN_retrieval_XXX' you can test the retrieve of the previously learned sequences. It then requires that you have already executed the codes contained in the 'Encoding' and saved the synapses. The script 'RETRIEVAL_sim' simulates the behavior of the four network layers (WM, L1, L2 and Theta generator).
+
+----------------------------------------------------------------------------------------------------------------------------
 
 *Please note: for all details omitted here, please refer to the reference article: https://doi.org/10.3389/fncir.2024.1326609 
 
