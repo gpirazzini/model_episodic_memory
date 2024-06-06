@@ -1,6 +1,5 @@
 MODELING THE CONTRIBUTION OF THETA-GAMMA COUPLING TO SEQUENTIAL MEMORY, IMAGINATION, AND DREAMING: Pirazzini and Ursino, Frontiers in Neural Circuits, 2024. 
 
-
 README FILE relative to the folder 'Encoding'
 
 The present folder contains three different MATLAB scripts, and two different '.mat' files.
@@ -9,7 +8,7 @@ The present folder contains three different MATLAB scripts, and two different '.
 
 Two test trainings have already been performed, and the synapses already saved within the '.mat' files ('synapses_ORTHO' & 'synapses_SHARED')
 
-------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------
 
 *Please note: for all details omitted here, please refer to the reference article: https://doi.org/10.3389/fncir.2024.1326609 
 
@@ -18,4 +17,4 @@ Two test trainings have already been performed, and the synapses already saved w
 "Pirazzini G and Ursino M (2024) Modeling the contribution of theta-gamma coupling to sequential memory, imagination, and dreaming. Front. Neural Circuits 18:1326609. doi: 10.3389/fncir.2024.1326609"
 
 
-														Gabriele Pirazzini, Cesena (IT), 06/06/2024
+										Gabriele Pirazzini, Cesena (IT), 06/06/2024
