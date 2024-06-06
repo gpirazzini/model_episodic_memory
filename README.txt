@@ -1,13 +1,9 @@
 MODELING THE CONTRIBUTION OF THETA-GAMMA COUPLING TO SEQUENTIAL MEMORY, IMAGINATION, AND DREAMING: Pirazzini and Ursino, Frontiers in Neural Circuits, 2024. 
 
 
-README FILE relative to the folder 'Encoding'
+The present folder contains three different MATLAB scripts.
 
-The present folder contains three different MATLAB scripts, and two different '.mat' files.
-
-'MAIN_training_L1' is the main script for training the network ('Encoding' operation mode), and can call the other two scripts depending on whether you want to train orthogonal or nonorthogonal (i.e., shared) sequences.
-
-Two test trainings have already been performed, and the synapses already saved within the '.mat' files ('synapses_ORTHO' & 'synapses_SHARED')
+'MAIN_retrieval_ortho' & 'MAIN_retrieval_shared' are the two main scripts for test the 'retrieval' functioning mode of the network (you can use one or the other depending on the type of sequences you want to retrieve), and both call the same script 'RETRIEVAL_sim'.
 
 ------------------------------------------------------------------------------------------------------------------------------
 
