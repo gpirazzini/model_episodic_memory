@@ -6,6 +6,8 @@ The present folder contains three different MATLAB scripts, and two different '.
 
 'MAIN_training_L1' is the main script for training the network ('Encoding' operation mode), and can call the other two scripts depending on whether you want to train orthogonal or nonorthogonal (i.e., shared) sequences.
 
+Launching 'MAIN_training_L1' you can train all types of synapses for the 3 temporal sequences (orthogonal or non-ortoghonal).
+
 Two test trainings have already been performed, and the synapses already saved within the '.mat' files ('synapses_ORTHO' & 'synapses_SHARED')
 
 ----------------------------------------------------------------------------------------------------------------------------
